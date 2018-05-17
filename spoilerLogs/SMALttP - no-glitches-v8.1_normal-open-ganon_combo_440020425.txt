@@ -1,0 +1,540 @@
+{
+    "Light World": {
+        "Sahasrahla's Hut - Left": "Bomb Upgrade (+5)",
+        "Sahasrahla's Hut - Middle": "Super Missile",
+        "Sahasrahla's Hut - Right": "Twenty Rupees",
+        "Sahasrahla": "Piece Of Heart",
+        "King Zora": "Energy Tank",
+        "Potion Shop": "Twenty Rupees",
+        "Zora's Ledge": "Hookshot",
+        "Waterfall Fairy - Left": "Cane Of Somaria",
+        "Waterfall Fairy - Right": "Three Bombs",
+        "Master Sword Pedestal": "Super Missile",
+        "King's Tomb": "Bottle (Red Potion)",
+        "Kakariko Tavern": "Ten Arrows",
+        "Chicken House": "Arrow Upgrade (+10)",
+        "Kakariko Well - Top": "Piece Of Heart",
+        "Kakariko Well - Left": "Missile",
+        "Kakariko Well - Middle": "Heart Container",
+        "Kakariko Well - Right": "Bombs",
+        "Kakariko Well - Bottom": "Energy Tank",
+        "Blind's Hideout - Top": "Missile",
+        "Blind's Hideout - Left": "Super Missile",
+        "Blind's Hideout - Right": "Arrow Upgrade (+5)",
+        "Blind's Hideout - Far Left": "Bottle (Bee)",
+        "Blind's Hideout - Far Right": "Book Of Mudora",
+        "Pegasus Rocks": "Bomb Upgrade (+5)",
+        "Bottle Merchant": "Reserve Tank",
+        "Magic Bat": "Energy Tank",
+        "Sick Kid": "Fifty Rupees",
+        "Lost Woods Hideout": "Progressive Sword",
+        "Lumberjack Tree": "Bomb Upgrade (+10)",
+        "Graveyard Ledge": "Super Missile",
+        "Mushroom": "Super Missile",
+        "Floodgate Chest": "Piece Of Heart",
+        "Link's House": "Twenty Rupees",
+        "Aginah's Cave": "Lamp",
+        "Mini Moldorm Cave - Far Left": "Twenty Rupees",
+        "Mini Moldorm Cave - Left": "Power Bomb",
+        "Mini Moldorm Cave - Right": "Hammer",
+        "Mini Moldorm Cave - Far Right": "Energy Tank",
+        "Ice Rod Cave": "Arrow Upgrade (+5)",
+        "Hobo": "Twenty Rupees",
+        "Bombos Tablet": "Piece Of Heart",
+        "Cave 45": "Progressive Sword",
+        "Checkerboard Cave": "Twenty Rupees",
+        "Mini Moldorm Cave - NPC": "Energy Tank",
+        "Library": "Sancturary Heart Container",
+        "Maze Race": "Magic Powder",
+        "Desert Ledge": "One Rupee",
+        "Lake Hylia Island": "Missile",
+        "Sunken Treasure": "Missile",
+        "Flute Spot": "Space Jump"
+    },
+    "Hyrule Castle": {
+        "Sanctuary": "Piece Of Heart",
+        "Sewers - Secret Room - Left": "Missile",
+        "Sewers - Secret Room - Middle": "Sewers Map",
+        "Sewers - Secret Room - Right": "Power Bomb",
+        "Sewers - Dark Cross": "Shovel",
+        "Hyrule Castle - Boomerang Chest": "One Rupee",
+        "Hyrule Castle - Map Chest": "Sewers Key",
+        "Hyrule Castle - Zelda's Cell": "Missile",
+        "Link's Uncle": "Twenty Rupees",
+        "Secret Passage": "Speed Booster"
+    },
+    "Eastern Palace": {
+        "Eastern Palace - Compass Chest": "Bomb Upgrade (+5)",
+        "Eastern Palace - Big Chest": "Eastern Palace Map",
+        "Eastern Palace - Cannonball Chest": "Twenty Rupees",
+        "Eastern Palace - Big Key Chest": "Eastern Palace Compass",
+        "Eastern Palace - Map Chest": "Eastern Palace Big Key",
+        "Eastern Palace - Armos Knights": "Heart Container",
+        "Eastern Palace - Prize": "Pendant Of Wisdom"
+    },
+    "Desert Palace": {
+        "Desert Palace - Big Chest": "Progressive Glove",
+        "Desert Palace - Map Chest": "Desert Palace Key",
+        "Desert Palace - Torch": "Desert Palace Compass",
+        "Desert Palace - Big Key Chest": "Desert Palace Map",
+        "Desert Palace - Compass Chest": "Desert Palace Big Key",
+        "Desert Palace - Lanmolas'": "Energy Tank",
+        "Desert Palace - Prize": "Crystal 1"
+    },
+    "Death Mountain": {
+        "Old Man": "Piece Of Heart",
+        "Spectacle Rock Cave": "Bottle (Blue Potion)",
+        "Ether Tablet": "Energy Tank",
+        "Spectacle Rock": "Five Rupees",
+        "Spiral Cave": "Fifty Rupees",
+        "Mimic Cave": "Missile",
+        "Paradox Cave Lower - Far Left": "Piece Of Heart",
+        "Paradox Cave Lower - Left": "Missile",
+        "Paradox Cave Lower - Right": "Magical Boomerang",
+        "Paradox Cave Lower - Far Right": "Magic Cape",
+        "Paradox Cave Lower - Middle": "Energy Tank",
+        "Paradox Cave Upper - Left": "Missile",
+        "Paradox Cave Upper - Right": "Blue Boomerang",
+        "Floating Island": "Three Bombs"
+    },
+    "Tower Of Hera": {
+        "Tower of Hera - Big Key Chest": "Tower of Hera Compass",
+        "Tower of Hera - Basement Cage": "Tower of Hera Key",
+        "Tower of Hera - Map Chest": "Tower of Hera Big Key",
+        "Tower of Hera - Compass Chest": "Super Missile",
+        "Tower of Hera - Big Chest": "Tower of Hera Map",
+        "Tower of Hera - Moldorm": "Progressive Armor",
+        "Tower of Hera - Prize": "Crystal 2"
+    },
+    "Castle Tower": {
+        "Castle Tower - Room 03": "Agahnims Tower Key",
+        "Castle Tower - Dark Maze": "Agahnims Tower Key"
+    },
+    "Dark World": {
+        "Superbunny Cave - Top": "Super Missile",
+        "Superbunny Cave - Bottom": "Reserve Tank",
+        "Hookshot Cave - Top Right": "Piece Of Heart",
+        "Hookshot Cave - Top Left": "Fifty Rupees",
+        "Hookshot Cave - Bottom Left": "Missile",
+        "Hookshot Cave - Bottom Right": "Twenty Rupees",
+        "Spike Cave": "Fifty Rupees",
+        "Catfish": "Arrow Upgrade (+5)",
+        "Pyramid": "Missile",
+        "Pyramid Fairy - Left": "Missile",
+        "Pyramid Fairy - Right": "Heart Container",
+        "Brewery": "Ether",
+        "C-Shaped House": "Energy Tank",
+        "Chest Game": "Bomb Upgrade (+5)",
+        "Hammer Pegs": "Super Missile",
+        "Bumper Cave": "One Hundred Rupees",
+        "Blacksmith": "Five Rupees",
+        "Purple Chest": "Reserve Tank",
+        "Hype Cave - Top": "Twenty Rupees",
+        "Hype Cave - Middle Right": "Ten Arrows",
+        "Hype Cave - Middle Left": "Flippers",
+        "Hype Cave - Bottom": "Pegasus Boots",
+        "Stumpy": "Super Missile",
+        "Hype Cave - NPC": "Bow",
+        "Digging Game": "Piece Of Heart",
+        "Mire Shed - Left": "Five Rupees",
+        "Mire Shed - Right": "Bomb Upgrade (+5)"
+    },
+    "Dark Palace": {
+        "Palace of Darkness - Shooter Room": "Palace of Darkness Key",
+        "Palace of Darkness - Big Key Chest": "Palace of Darkness Key",
+        "Palace of Darkness - The Arena - Ledge": "Palace of Darkness Key",
+        "Palace of Darkness - The Arena - Bridge": "Palace of Darkness Key",
+        "Palace of Darkness - Stalfos Basement": "Charge Beam",
+        "Palace of Darkness - Map Chest": "Palace of Darkness Big Key",
+        "Palace of Darkness - Big Chest": "Hi-Jump Boots",
+        "Palace of Darkness - Compass Chest": "Palace of Darkness Key",
+        "Palace of Darkness - Harmless Hellway": "Palace of Darkness Compass",
+        "Palace of Darkness - Dark Basement - Left": "Palace of Darkness Key",
+        "Palace of Darkness - Dark Basement - Right": "Fifty Rupees",
+        "Palace of Darkness - Dark Maze - Top": "Bug Catching Net",
+        "Palace of Darkness - Dark Maze - Bottom": "Fifty Rupees",
+        "Palace of Darkness - Helmasaur King": "Palace of Darkness Map",
+        "Palace of Darkness - Prize": "Crystal 7"
+    },
+    "Swamp Palace": {
+        "Swamp Palace - Entrance": "Swamp Palace Key",
+        "Swamp Palace - Big Chest": "Missile",
+        "Swamp Palace - Big Key Chest": "Three Hundred Rupees",
+        "Swamp Palace - Map Chest": "Missile",
+        "Swamp Palace - West Chest": "Missile",
+        "Swamp Palace - Compass Chest": "Missile",
+        "Swamp Palace - Flooded Room - Left": "Twenty Rupees",
+        "Swamp Palace - Flooded Room - Right": "Swamp Palace Compass",
+        "Swamp Palace - Waterfall Room": "Swamp Palace Map",
+        "Swamp Palace - Arrghus": "Swamp Palace Big Key",
+        "Swamp Palace - Prize": "Crystal 5"
+    },
+    "Skull Woods": {
+        "Skull Woods - Big Chest": "Skull Woods Map",
+        "Skull Woods - Big Key Chest": "Skull Woods Key",
+        "Skull Woods - Compass Chest": "Skull Woods Compass",
+        "Skull Woods - Map Chest": "Skull Woods Big Key",
+        "Skull Woods - Bridge Room": "Three Bombs",
+        "Skull Woods - Pot Prison": "Skull Woods Key",
+        "Skull Woods - Pinball Room": "Skull Woods Key",
+        "Skull Woods - Mothula": "Progressive Shield",
+        "Skull Woods - Prize": "Pendant Of Power"
+    },
+    "Thieves Town": {
+        "Thieves' Town - Attic": "Fire Rod",
+        "Thieves' Town - Big Key Chest": "Thieves Town Compass",
+        "Thieves' Town - Map Chest": "Thieves Town Map",
+        "Thieves' Town - Compass Chest": "Twenty Rupees",
+        "Thieves' Town - Ambush Chest": "Thieves Town Big Key",
+        "Thieves' Town - Big Chest": "Thieves Town Key",
+        "Thieves' Town - Blind's Cell": "Twenty Rupees",
+        "Thieves' Town - Blind": "Three Bombs",
+        "Thieves' Town - Prize": "Crystal 6"
+    },
+    "Ice Palace": {
+        "Ice Palace - Big Key Chest": "Ice Palace Compass",
+        "Ice Palace - Compass Chest": "Ice Palace Big Key",
+        "Ice Palace - Map Chest": "Ice Palace Key",
+        "Ice Palace - Spike Room": "Twenty Rupees",
+        "Ice Palace - Freezor Chest": "Missile",
+        "Ice Palace - Iced T Room": "Twenty Rupees",
+        "Ice Palace - Big Chest": "Ice Palace Map",
+        "Ice Palace - Kholdstare": "Ice Palace Key",
+        "Ice Palace - Prize": "Crystal 4"
+    },
+    "Misery Mire": {
+        "Misery Mire - Big Chest": "Twenty Rupees",
+        "Misery Mire - Main Lobby": "Misery Mire Key",
+        "Misery Mire - Big Key Chest": "Misery Mire Map",
+        "Misery Mire - Compass Chest": "Misery Mire Big Key",
+        "Misery Mire - Bridge Chest": "Misery Mire Key",
+        "Misery Mire - Map Chest": "Misery Mire Key",
+        "Misery Mire - Spike Chest": "Wave Beam",
+        "Misery Mire - Vitreous": "Misery Mire Compass",
+        "Misery Mire - Prize": "Pendant Of Courage"
+    },
+    "Turtle Rock": {
+        "Turtle Rock - Chain Chomps": "Turtle Rock Map",
+        "Turtle Rock - Compass Chest": "Turtle Rock Key",
+        "Turtle Rock - Roller Room - Left": "Turtle Rock Big Key",
+        "Turtle Rock - Roller Room - Right": "Turtle Rock Key",
+        "Turtle Rock - Big Chest": "Turtle Rock Key",
+        "Turtle Rock - Big Key Chest": "Turtle Rock Key",
+        "Turtle Rock - Crystaroller Room": "Ice Rod",
+        "Turtle Rock - Eye Bridge - Bottom Left": "Heart Container",
+        "Turtle Rock - Eye Bridge - Bottom Right": "Missile",
+        "Turtle Rock - Eye Bridge - Top Left": "Turtle Rock Compass",
+        "Turtle Rock - Eye Bridge - Top Right": "Progressive Shield",
+        "Turtle Rock - Trinexx": "Screw Attack",
+        "Turtle Rock - Prize": "Crystal 3"
+    },
+    "Ganons Tower": {
+        "Ganon's Tower - Bob's Torch": "Ganons Tower Map",
+        "Ganon's Tower - DMs Room - Top Left": "Ganons Tower Key",
+        "Ganon's Tower - DMs Room - Top Right": "Ganons Tower Key",
+        "Ganon's Tower - DMs Room - Bottom Left": "Twenty Rupees",
+        "Ganon's Tower - DMs Room - Bottom Right": "Piece Of Heart",
+        "Ganon's Tower - Randomizer Room - Top Left": "Ganons Tower Big Key",
+        "Ganon's Tower - Randomizer Room - Top Right": "Piece Of Heart",
+        "Ganon's Tower - Randomizer Room - Bottom Left": "Piece Of Heart",
+        "Ganon's Tower - Randomizer Room - Bottom Right": "Three Bombs",
+        "Ganon's Tower - Firesnake Room": "Twenty Rupees",
+        "Ganon's Tower - Map Chest": "Twenty Rupees",
+        "Ganon's Tower - Big Chest": "Energy Tank",
+        "Ganon's Tower - Hope Room - Left": "Ganons Tower Key",
+        "Ganon's Tower - Hope Room - Right": "Ten Arrows",
+        "Ganon's Tower - Bob's Chest": "Piece Of Heart",
+        "Ganon's Tower - Tile Room": "Bomb Upgrade (+5)",
+        "Ganon's Tower - Compass Room - Top Left": "Missile",
+        "Ganon's Tower - Compass Room - Top Right": "Missile",
+        "Ganon's Tower - Compass Room - Bottom Left": "Piece Of Heart",
+        "Ganon's Tower - Compass Room - Bottom Right": "Ganons Tower Compass",
+        "Ganon's Tower - Big Key Chest": "Ganons Tower Key",
+        "Ganon's Tower - Big Key Room - Left": "Three Bombs",
+        "Ganon's Tower - Big Key Room - Right": "Power Bomb",
+        "Ganon's Tower - Mini Helmasaur Room - Left": "Ten Arrows",
+        "Ganon's Tower - Mini Helmasaur Room - Right": "Missile",
+        "Ganon's Tower - Pre-Moldorm Chest": "Missile",
+        "Ganon's Tower - Moldorm Chest": "Bombos"
+    },
+    "Special": {
+        "Turtle Rock Medallion": "Quake",
+        "Misery Mire Medallion": "Ether",
+        "Waterfall Bottle": "Bottle (Green Potion)",
+        "Pyramid Bottle": "Bottle (Fairy)"
+    },
+    "Crateria": {
+        "Power Bomb (Crateria surface)": "Power Bomb",
+        "Missile (Crateria middle)": "Piece Of Heart",
+        "Missile (Crateria bottom)": "Twenty Rupees",
+        "Super Missile (Crateria)": "Half Magic",
+        "Bombs": "Missile",
+        "Energy Tank, Terminator": "Missile",
+        "Energy Tank, Gauntlet": "Missile",
+        "Missile (Crateria gauntlet right)": "Heart Container",
+        "Missile (Crateria gauntlet left)": "Power Bomb",
+        "Missile (outside Wrecked Ship bottom)": "Three Hundred Rupees",
+        "Missile (outside Wrecked Ship top)": "Three Hundred Rupees",
+        "Missile (outside Wrecked Ship middle)": "Power Bomb",
+        "Missile (Crateria moat)": "Super Missile"
+    },
+    "Brinstar": {
+        "Power Bomb (green Brinstar bottom)": "Piece Of Heart",
+        "Missile (green Brinstar below super missile)": "Arrow Upgrade (+5)",
+        "Super Missile (green Brinstar top)": "Missile",
+        "Reserve Tank, Brinstar": "Missile",
+        "Missile (green Brinstar behind missile)": "Single Arrow",
+        "Missile (green Brinstar behind reserve tank)": "Missile",
+        "Energy Tank, Etecoons": "Energy Tank",
+        "Super Missile (green Brinstar bottom)": "Missile",
+        "Super Missile (pink Brinstar)": "Twenty Rupees",
+        "Missile (pink Brinstar top)": "Missile",
+        "Missile (pink Brinstar bottom)": "Progressive Armor",
+        "Charge Beam": "Twenty Rupees",
+        "Power Bomb (pink Brinstar)": "Progressive Sword",
+        "Missile (green Brinstar pipe)": "Heart Container",
+        "Energy Tank, Waterway": "Missile",
+        "Energy Tank, Brinstar Gate": "Super Missile",
+        "Morphing Ball": "Twenty Rupees",
+        "Power Bomb (blue Brinstar)": "Ten Arrows",
+        "Missile (blue Brinstar middle)": "Silver Arrows Upgrade",
+        "Energy Tank, Brinstar Ceiling": "Piece Of Heart",
+        "Missile (blue Brinstar bottom)": "Missile",
+        "Missile (blue Brinstar top)": "Progressive Sword",
+        "Missile (blue Brinstar behind missile)": "Power Bomb",
+        "X-Ray Scope": "Twenty Rupees",
+        "Power Bomb (red Brinstar sidehopper room)": "Super Missile",
+        "Power Bomb (red Brinstar spike room)": "Morphing Ball",
+        "Missile (red Brinstar spike room)": "Moon Pearl",
+        "Spazer": "Heart Container",
+        "Energy Tank, Kraid": "Missile",
+        "Varia Suit": "Arrow Upgrade (+5)",
+        "Missile (Kraid)": "Spring Ball"
+    },
+    "Norfair": {
+        "Ice Beam": "Twenty Rupees",
+        "Missile (below Ice Beam)": "Missile",
+        "Hi-Jump Boots": "Missile",
+        "Missile (Hi-Jump Boots)": "Three Bombs",
+        "Energy Tank (Hi-Jump Boots)": "Bottle (Blue Potion)",
+        "Missile (lava room)": "Progressive Glove",
+        "Reserve Tank, Norfair": "Flute",
+        "Missile (Norfair Reserve Tank)": "Varia Suit",
+        "Missile (bubble Norfair green door)": "Missile",
+        "Missile (bubble Norfair)": "Three Hundred Rupees",
+        "Missile (Speed Booster)": "Power Bomb",
+        "Speed Booster": "Ice Beam",
+        "Missile (Wave Beam)": "Grappling Beam",
+        "Wave Beam": "Mushroom",
+        "Energy Tank, Crocomire": "Heart Container",
+        "Missile (above Crocomire)": "Plasma Beam",
+        "Power Bomb (Crocomire)": "Super Missile",
+        "Missile (below Crocomire)": "Fifty Rupees",
+        "Missile (Grapple Beam)": "Energy Tank",
+        "Grapple Beam": "Super Missile"
+    },
+    "Lower Norfair": {
+        "Missile (Gold Torizo)": "Gravity Suit",
+        "Super Missile (Gold Torizo)": "Energy Tank",
+        "Screw Attack": "Piece Of Heart",
+        "Missile (Mickey Mouse room)": "Heart Container",
+        "Missile (lower Norfair above fire flea room)": "Reserve Tank",
+        "Power Bomb (lower Norfair above fire flea room)": "Progressive Shield",
+        "Power Bomb (Power Bombs of shame)": "Quake",
+        "Missile (lower Norfair near Wave Beam)": "Power Bomb",
+        "Energy Tank, Ridley": "Ten Bombs",
+        "Energy Tank, Firefleas": "Missile"
+    },
+    "Wrecked Ship": {
+        "Missile (Wrecked Ship middle)": "Three Bombs",
+        "Reserve Tank, Wrecked Ship": "Piece Of Heart",
+        "Missile (Gravity Suit)": "Three Bombs",
+        "Missile (Wrecked Ship top)": "Twenty Rupees",
+        "Energy Tank, Wrecked Ship": "Super Missile",
+        "Super Missile (Wrecked Ship left)": "Twenty Rupees",
+        "Right Super, Wrecked Ship": "X-Ray Scope",
+        "Gravity Suit": "Super Missile"
+    },
+    "Maridia": {
+        "Missile (green Maridia shinespark)": "Missile",
+        "Super Missile (green Maridia)": "Five Rupees",
+        "Energy Tank, Mama turtle": "Piece Of Heart",
+        "Missile (green Maridia tatori)": "Piece Of Heart",
+        "Super Missile (yellow Maridia)": "Heart Container",
+        "Missile (yellow Maridia super missile)": "Twenty Rupees",
+        "Missile (yellow Maridia false wall)": "Super Missile",
+        "Plasma Beam": "Missile",
+        "Missile (left Maridia sand pit room)": "Piece Of Heart",
+        "Reserve Tank, Maridia": "Missile",
+        "Missile (right Maridia sand pit room)": "Energy Tank",
+        "Power Bomb (right Maridia sand pit room)": "Piece Of Heart",
+        "Missile (pink Maridia)": "Spazer",
+        "Super Missile (pink Maridia)": "Three Hundred Rupees",
+        "Spring Ball": "Cane Of Byrna",
+        "Missile (Draygon)": "Power Bomb",
+        "Energy Tank, Botwoon": "Magic Mirror",
+        "Space Jump": "Arrow Upgrade (+5)"
+    },
+    "Tourian": [],
+    "playthrough": {
+        "1": {
+            "Light World": {
+                "Kakariko Well - Bottom": "Energy Tank",
+                "Blind's Hideout - Far Right": "Book Of Mudora",
+                "Bottle Merchant": "Reserve Tank",
+                "Lost Woods Hideout": "Progressive Sword",
+                "Mushroom": "Super Missile",
+                "Aginah's Cave": "Lamp",
+                "Mini Moldorm Cave - Left": "Power Bomb",
+                "Mini Moldorm Cave - Right": "Hammer",
+                "Mini Moldorm Cave - Far Right": "Energy Tank",
+                "Mini Moldorm Cave - NPC": "Energy Tank",
+                "Maze Race": "Magic Powder"
+            }
+        },
+        "2": {
+            "Light World": {
+                "Magic Bat": "Energy Tank"
+            },
+            "Hyrule Castle": {
+                "Sewers - Dark Cross": "Shovel"
+            }
+        },
+        "3": {
+            "Light World": {
+                "Flute Spot": "Space Jump"
+            },
+            "Desert Palace": {
+                "Desert Palace - Compass Chest": "Desert Palace Big Key"
+            }
+        },
+        "4": {
+            "Desert Palace": {
+                "Desert Palace - Big Chest": "Progressive Glove"
+            }
+        },
+        "5": {
+            "Desert Palace": {
+                "Desert Palace - Prize": "Crystal 1"
+            },
+            "Brinstar": {
+                "Power Bomb (red Brinstar spike room)": "Morphing Ball"
+            }
+        },
+        "6": {
+            "Brinstar": {
+                "Missile (blue Brinstar top)": "Progressive Sword",
+                "Missile (red Brinstar spike room)": "Moon Pearl",
+                "Kraid": "Defeat Kraid"
+            },
+            "Norfair": {
+                "Missile (lava room)": "Progressive Glove",
+                "Reserve Tank, Norfair": "Flute",
+                "Missile (Norfair Reserve Tank)": "Varia Suit"
+            },
+            "Wrecked Ship": {
+                "Phantoon": "Defeat Phantoon"
+            }
+        },
+        "7": {
+            "Dark World": {
+                "Hype Cave - Middle Left": "Flippers",
+                "Hype Cave - NPC": "Bow"
+            },
+            "Thieves Town": {
+                "Thieves' Town - Ambush Chest": "Thieves Town Big Key"
+            },
+            "Lower Norfair": {
+                "Missile (Gold Torizo)": "Gravity Suit",
+                "Power Bomb (Power Bombs of shame)": "Quake"
+            }
+        },
+        "8": {
+            "Light World": {
+                "Zora's Ledge": "Hookshot",
+                "Waterfall Fairy - Left": "Cane Of Somaria"
+            },
+            "Dark Palace": {
+                "Palace of Darkness - Stalfos Basement": "Charge Beam",
+                "Palace of Darkness - Map Chest": "Palace of Darkness Big Key"
+            },
+            "Maridia": {
+                "Energy Tank, Botwoon": "Magic Mirror",
+                "Draygon": "Defeat Draygon"
+            }
+        },
+        "9": {
+            "Tower Of Hera": {
+                "Tower of Hera - Map Chest": "Tower of Hera Big Key"
+            },
+            "Thieves Town": {
+                "Thieves' Town - Attic": "Fire Rod",
+                "Thieves' Town - Prize": "Crystal 6"
+            },
+            "Lower Norfair": {
+                "Ridley": "Defeat Ridley"
+            }
+        },
+        "10": {
+            "Tower Of Hera": {
+                "Tower of Hera - Prize": "Crystal 2"
+            },
+            "Dark Palace": {
+                "Palace of Darkness - Prize": "Crystal 7"
+            },
+            "Swamp Palace": {
+                "Swamp Palace - Prize": "Crystal 5"
+            },
+            "Ice Palace": {
+                "Ice Palace - Compass Chest": "Ice Palace Big Key"
+            },
+            "Turtle Rock": {
+                "Turtle Rock - Roller Room - Left": "Turtle Rock Big Key"
+            },
+            "Tourian": {
+                "Mother Brain": "Defeat Mother Brain"
+            }
+        },
+        "11": {
+            "Ice Palace": {
+                "Ice Palace - Prize": "Crystal 4"
+            },
+            "Turtle Rock": {
+                "Turtle Rock - Crystaroller Room": "Ice Rod"
+            }
+        },
+        "12": {
+            "Turtle Rock": {
+                "Turtle Rock - Prize": "Crystal 3"
+            }
+        },
+        "13": {
+            "Ganons Tower": {
+                "Ganon's Tower - Randomizer Room - Top Left": "Ganons Tower Big Key"
+            }
+        },
+        "14": {
+            "Ganons Tower": {
+                "Agahnim 2": "Defeat Agahnim 2"
+            }
+        },
+        "15": {
+            "Dark World": {
+                "Ganon": "Triforce"
+            }
+        },
+        "longest_item_chain": 15,
+        "regions_visited": 32
+    },
+    "meta": {
+        "difficulty": "normal",
+        "variation": "combo",
+        "logic": "no-glitches-v8.1",
+        "rom_mode": "NoMajorGlitches",
+        "seed": 440020425,
+        "goal": "ganon",
+        "build": "2018-05-14",
+        "mode": "open",
+        "weapons": ""
+    }
+}
