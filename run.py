@@ -24,9 +24,65 @@ def get_transition(location_a, location_b):
     return transition
 
 
-pp = pprint.PrettyPrinter(indent=0)
+def build_locations(dict_key, locations_dict):
+    if dict_key in locations_dict:
+        locations_dict[dict_key] += 1
+    else:
+        locations_dict[dict_key] = 1
+
+
+def build_transitions(location_b, transitions_dict, dict_key):
+    if location_b:
+        location_a = location_b
+        location_b = dict_key
+        transition = get_transition(location_a, location_b)
+        if transition in transitions_dict:
+            transitions_dict[transition] += 1
+        else:
+            transitions_dict[transition] = 1
+
+
+def build_location_prize_combos(dict_key, location_prize_combos_dict, word):
+    if dict_key in location_prize_combos_dict:
+        dict_list = location_prize_combos_dict[dict_key]
+        dict_list.append(word)
+        location_prize_combos_dict[key] = dict_list
+    else:
+        location_prize_combos_dict[key] = [word]
+
+
+def print_dict(some_dict):
+    for dict_key in some_dict:
+        print('{} :'.format(dict_key, some_dict[dict_key]))
+        for some_item in sorted(some_dict[dict_key]):
+            print('   {}'.format(some_item))
+    print(" ")
+    print(" ")
+    print(" ")
+
+
+def print_list(some_list):
+    for entry in some_list:
+        if entry[1] != 1:
+            print("{} : {}".format(entry[0], entry[1]))
+    print(" ")
+    print(" ")
+    print(" ")
+
+
+def print_report(locations_dict, transitions_dict, locations_prize_combos_dict, file_count_number):
+    print(" ")
+    print_list(sort_dictionary(locations_dict))
+    print_list(sort_dictionary(transitions_dict))
+    print_dict(locations_prize_combos_dict)
+    print("File Count: {}".format(file_count_number))
+
+
+pp = pprint.PrettyPrinter(indent=0, width=1000)
 
 os.getcwd()
+
+location_prize_combos = {}
 
 locations = {}
 
@@ -44,36 +100,22 @@ for root, dirs, files in os.walk("spoilerLogs"):
         if file.endswith(".txt"):
             openFile = open(os.path.join(root, file))
             current_location = None
-            playthrough = False
+            play_through = False
             for line in openFile:
                 part = line.split(":")
-                if not playthrough:
+                key = crop(part[0])
+                if not play_through:
                     next
                 else:
                     try:
-                        if crop(part[1]) in items:
-                            key = crop(part[0])
-                            if current_location:
-                                previous_location = current_location
-                                current_location = key
-                                current_transition = get_transition(previous_location, current_location)
-                                if current_transition in transitions:
-                                    transitions[current_transition] += 1
-                                else:
-                                    transitions[current_transition] = 1
+                        item = crop(part[1])
+                        if item in items:
+                            build_transitions(current_location, transitions, key)
+                            build_locations(key, locations)
+                            build_location_prize_combos(key, location_prize_combos, item)
                             current_location = key
-                            if key in locations:
-                                locations[key] += 1
-                            else:
-                                locations[key] = 1
                     except IndexError:
                         pass
-                if crop(part[0]) == 'playthrough':
-                    playthrough = True
-
-pp.pprint(sort_dictionary(locations))
-print(" ")
-print(" ")
-print(" ")
-pp.pprint(sort_dictionary(transitions))
-print(file_count)
+                if key == 'playthrough':
+                    play_through = True
+print_report(locations, transitions, location_prize_combos, file_count)
